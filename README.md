@@ -136,7 +136,11 @@ The code is available at
 <https://github.com/jlee92603/double_machine_learning/>
 
 ## Tables and Figures
-
+![Table 1](Figures/Figure1.png)
+![Figure 1](Figures/Figure2.png)
+![Figure 2](Figures/Figure3.png)
+![Figure 3](Figures/Figure4.png)
+![Figure 4](Figures/Figure5.png)
 
 
 
