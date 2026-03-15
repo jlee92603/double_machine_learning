@@ -13,7 +13,7 @@ paper designs a simulation study to compare the performance of the DML
 estimator with ordinary least squares and investigates how the choice of
 machine learning method used to estimate the nuisance function $g_0(X)$
 affects the estimation accuracy of $\theta_0$ as well as proposes an
-extention of the DML framework for estimating a more general treatment
+extension of the DML framework for estimating a more general treatment
 effect function $f_0(D)$ when the treatment effect is not linear in D.
 
 # Methodology
